@@ -1,5 +1,5 @@
 {
-  "name": "potatopowered/gravatar-helper",
+  "name": "jeffersonsimaogoncalves/gravatar-helper",
   "type": "cakephp-plugin",
   "description": "A helper that can be used to pull profile pictures from the gravatar service for CakePHP 3.x ",
   "keywords": [
